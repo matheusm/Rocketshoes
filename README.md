@@ -1,7 +1,7 @@
 <img src=".github/ignite.png" alt="Ignite" >
 
 <h3 align="center">
-  Desafio 01 - Conceitos do React
+  Desafio 03 - Rocketshoes
 </h3>
 
 <p align="center">
